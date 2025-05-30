@@ -4,24 +4,19 @@
   <img src="./code.gif" alt="Coding GIF" width="500"/>
 </p>
 
-Welcome to my GitHub! I’m a passionate **Full-Stack Developer** 💻 crafting sleek and scalable web apps, with a special love for **Laravel** 🖥️ on the backend.
-
-I’m always improving my skills 📈 to build better solutions 🚀.
-
----
-
 
 ## 🚀 About Me
 
-- 💻 Building innovative, efficient web applications  
-- 🌱 Continuously learning and honing my skills  
-- 🚀 Ready to tackle challenges and grow professionally  
-- 📬 Reach out anytime: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)  
+I’m a **Full-Stack Developer**  who enjoys building web apps.
+
+- 💡 Creating practical and useful web applications
+- 💻 Always curious, picking up new skills and tools
+- ⚡ Embracing challenges to push my growth forward
+- 📬 Reach out anytime: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
@@ -31,7 +26,6 @@ I’m always improving my skills 📈 to build better solutions 🚀.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 ---
 
