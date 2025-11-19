@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 
-I build things for the web — and sometimes break them on purpose, because that’s how I learn.
-I like creating stuff that actually works and makes people’s lives a bit easier.
+I build things — and sometimes break them on purpose.
+I enjoy creating stuff that works well and makes people’s lives a bit easier.
 
 - 🚀 I break things, fix things, and always learn something new
 - 🎯 Turning random ideas into real usable projects
