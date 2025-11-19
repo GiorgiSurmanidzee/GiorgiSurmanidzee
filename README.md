@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 I build things — and sometimes break them on purpose.
-I enjoy creating stuff that works well and makes people’s lives a bit easier.
+I enjoy creating stuff that works well and makes people’s lives easier.
 
 - 🚀 I break things, fix things, and always learn something new
 - 🎯 Turning random ideas into real usable projects
