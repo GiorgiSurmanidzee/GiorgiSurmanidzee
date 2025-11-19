@@ -7,12 +7,14 @@
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Developer**  who enjoys building web apps.
+I build things for the web — and sometimes break them on purpose, because that’s how I learn.
+I like creating stuff that actually works and makes people’s lives a bit easier.
 
-- 💡 Creating practical and useful web applications
-- 💻 Always curious, picking up new skills and tools
-- ⚡ Embracing challenges to push my growth forward
-- 📬 Reach out anytime: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)
+- 🚀 I break things, fix things, and always learn something new
+- 🎯 Turning random ideas into real usable projects
+- ⚡ Hard challenges > easy tasks — always
+- 🧩 If a problem looks messy, I’m already interested
+- 📬 Say hi: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)
 
 ---
 
