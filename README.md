@@ -1,9 +1,5 @@
 # 👋 Hey there, I’m Giorgi Surmanidze!
 
-<p align="center">
-  <img src="./code.gif" alt="Coding GIF" width="500"/>
-</p>
-
 
 ## 🚀 About Me
 
