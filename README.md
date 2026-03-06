@@ -30,5 +30,10 @@ I’m a full-stack developer focused on building products that people can actual
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giorgisurmanidze917@gmail.com)
 
 ---
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
 
 ### Code hard, stay curious, build better ⚡
+
+
