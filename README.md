@@ -18,6 +18,8 @@ I enjoy creating stuff that works well and makes people’s lives easier.
 
 ---
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiSurmanidzee&theme=tokyonight" alt="GitHub Streak" /></a>
+
 ## 🛠️ Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
