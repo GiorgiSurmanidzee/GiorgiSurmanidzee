@@ -18,7 +18,7 @@ I enjoy creating stuff that works well and makes people’s lives easier.
 
 ---
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiSurmanidzee&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GiorgiSurmanidzee&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
 ## 🛠️ Tech Stack & Tools
 
