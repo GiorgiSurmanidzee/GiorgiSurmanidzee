@@ -8,11 +8,6 @@ I’m a full-stack developer focused on building products that people can actual
 - 🧩 The messier the problem, the more interesting it gets  
 - 📬 Say hi: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)
 
----
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=GiorgiSurmanidzee&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
 
 ---
 
