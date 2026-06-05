@@ -16,7 +16,6 @@
 ## 🚀 About Me
 
 - 💻 Full-Stack Developer focused on backend + frontend
-- ⚙️ Building APIs, dashboards, CRMs, and internal business platforms
 - 🧩 I like solving messy real-world problems
 - 📈 Always learning, improving, and shipping better projects
 - 📬 Contact: [giorgisurmanidze917@gmail.com](mailto:giorgisurmanidze917@gmail.com)
